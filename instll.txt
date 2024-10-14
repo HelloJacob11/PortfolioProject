@@ -1,0 +1,6 @@
+$ npm install -D tailwindcss@latest
+$ npm install -D postcss@latest 
+$ npm install -D autoprefixer@latest
+$ npm install -D postcss-loader
+$ npx tailwindcss init
+"./src/**/*.{js,jsx,ts,tsx}",
